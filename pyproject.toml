@@ -3,6 +3,7 @@ name = "retail-forecasting"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "chronos-forecasting>=2.3.2",
     "darts[torch]>=0.47.0",
     "matplotlib>=3.11.2",
     "numpy>=2.3.5",

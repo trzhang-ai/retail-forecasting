@@ -1,3 +1,5 @@
-# Purpose of this Folder
+# starter
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+`starter.ipynb` is the project notebook, with all four phases completed: baseline forecasts, classical models (ARIMA and SARIMAX), modern models (N-BEATS, Chronos-Bolt, and Darts ARIMA), and the comparison table and written recommendation.
+
+The notebook reads `../data/revenue.csv`, so it must run with this folder as its working directory. Jupyter and VS Code do this automatically. See the [project README](../README.md) for setup.
