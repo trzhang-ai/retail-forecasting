@@ -1,5 +1,5 @@
 [project]
-name = "retail-forecasting"
+name = "revenue-forecasting"
 version = "0.1.0"
 description = "December 2026 revenue forecast: statistical, neural, and foundation-model evaluation with a planning recommendation"
 readme = "README.md"

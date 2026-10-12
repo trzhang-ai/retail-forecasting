@@ -3232,7 +3232,7 @@ wheels = [
 ]
 
 [[package]]
-name = "retail-forecasting"
+name = "revenue-forecasting"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

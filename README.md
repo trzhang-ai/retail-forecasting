@@ -69,8 +69,7 @@ The full notebook runs on CPU in under a minute once the model weights are cache
 ```
 .
 ├── data/
-│   ├── revenue.csv                            # monthly revenue, Jan 2021 – Dec 2025
-│   └── LICENSE.txt                            # license for the case-study data
+│   └── revenue.csv                            # monthly revenue, Jan 2021 – Dec 2025
 ├── notebooks/
 │   └── revenue_forecast_evaluation.ipynb      # full analysis and recommendation
 ├── pyproject.toml                             # dependencies
